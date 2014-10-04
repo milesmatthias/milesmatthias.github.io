@@ -1,0 +1,18 @@
+---
+layout: post
+title: Websockets are getting some much deserved love
+date: '2012-09-24T09:52:09-06:00'
+tags: []
+tumblr_url: http://milesmatthias.com/post/32200275321/websockets-are-getting-some-much-deserved-love
+---
+<p><a href="http://www.websocket.org/" target="_blank">Websockets</a> is a new standard protocol that allows for real-time bi-directional communication between the client and the server. A connection can be established and data can be sent as often or rarely as desired and the connection will still be there. If you&#8217;re still unsure about what this means, consider the fact that HTTP was designed for simple one-time requests and responses. Fetch a file and return a file. Websockets allow for true real time communication between the client and the server.</p>
+
+<p>Since HTTP doesn&#8217;t inherently support behavior like this, <a href="http://socket.io/" target="_blank">socketio</a> was made to hack together a real-time bi-directional connection over HTTP, but isn&#8217;t an official standard. It&#8217;s currently the de facto standard for real-time apps, but as the Websockets standard grows and is supported, expect socketio to be used for rare cases.</p>
+
+<p>Interested in learning more? Check this stuff out:</p>
+
+<ul><li>It&#8217;s <a href="http://caniuse.com/websockets" target="_blank">supported in all of the latest browsers</a> (except IE of course).</li>
+<li>There are some <a href="http://www.websocket.org/demos.html" target="_blank">awesome demos</a> out there.</li>
+<li>Armin Ronacher gives <a href="http://lucumr.pocoo.org/2012/9/24/websockets-101/" target="_blank">an awesome in-depth introduction</a> to building websocket support on the server side.</li>
+<li>My favorite demo is a <a href="http://www.youtube.com/watch?v=64TcBiqmVko" target="_blank">multi-screen aquarium</a>!</li>
+</ul>

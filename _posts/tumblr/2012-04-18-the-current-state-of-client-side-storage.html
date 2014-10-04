@@ -1,0 +1,76 @@
+---
+layout: post
+title: The Current State of Client-Side Storage
+date: '2012-04-18T07:27:00-06:00'
+tags: []
+tumblr_url: http://milesmatthias.com/post/21323839252/the-current-state-of-client-side-storage
+---
+<p>One of the biggest parts of developing the next generation of web applications is the ability to store data on the user&#8217;s browser. With the goal of being snappy quick, nothing is faster than getting data from the user&#8217;s machine instead of wasting time waiting for a server to send it to the web application. Storing data on the client is still a work in progress as the community continues to flesh out standards for the next generation of web apps, but this article is meant to serve as a summary of the current designs in storing data in a browser.</p>
+
+<h4>"Web" or "DOM" Storage</h4>
+
+<p>"Web" or "DOM" storage was orginially part of the HTML5 standard by W3C, but is now a separate W3C spec. Please note that while some places may call it "DOM" storage, this type of storage has nothing to do with the Document Object Model. "Web" storage is broken down into two types:</p>
+
+<h6>Session Storage</h6>
+
+<ul><li><strong>Per-page-per-window storage</strong> You don&#8217;t want to use this type of storage if you want multiple windows of your app running in the same browser to be able to communicate with each other.</li>
+<li><strong>Limited to lifetime of window</strong> When the user closes their browser window, this data is gone.</li>
+<li><strong>Separation</strong> This is a good option if you want the user to be able to use your app in multiple windows without interfering with each other</li>
+</ul><p>To use session storage, use the <code>sessionStorage</code> keyword in javascript:</p>
+
+<pre><code>sessionStorage.setItem(key, value);
+sessionStorage.getItem(key);
+</code></pre>
+
+<h6>Local Storage</h6>
+
+<ul><li><strong>Per Domain</strong> When the user has multiple tabs or windows open connected to your app, if they&#8217;re all coming from the same domain (<code>example.com</code>), they will all be sharing the same data.</li>
+<li><strong>Persists</strong> after the browser has been closed. The next time your user comes back to your web app (barring them resetting their browser), you&#8217;ll be able to access the data from the last visit.</li>
+</ul><p>To use local storage, use the <code>localStorage</code> keyword in javascript:</p>
+
+<pre><code>localStorage.setItem(key, value);
+localStorage.getItem(key);
+</code></pre>
+
+<h6>Notes about Web Storage (both Session and Local storage)</h6>
+
+<ul><li><strong>Limited Data</strong> If you use either of these types of storage, you&#8217;re limited to 5&#160;MB in Firefox, Chrome, and Opera. In Internet Explorer, you&#8217;re allowed 10&#160;MB.</li>
+<li><strong>Very basic</strong> It is strictly a client-side, key-value pair storage implementation. No tables, relationships, or anything like that. </li>
+</ul><p>(Note: You might be wondering, is Web storage equivalent to setting a cookie? No. Cookies are generally set by using HTTP requests to let both the browser and the server know that they&#8217;re setting a cookie. Then both the client and server have access to them, as opposed to setting values in javascript in the browser only where the server can&#8217;t see them on its own.)</p>
+
+<h4>WebSQL</h4>
+
+<ul><li><strong>SQLite Browser Implementation</strong> The browser stores a SQLite database and provides a javascript API to interact with that database and do everything you would normally do with a SQLite database.</li>
+<li><strong>Limited support</strong> Only implemented in Chrome, Safari, Opera, iOS Safari, Opera Mobile, and Android Browser.</li>
+<li><strong>Discontinued</strong> Although some browsers currently support it and plan to continue supporting it, WebSQL has been dropped as an official standard by the W3C. (They decided to go with IndexedDB instead.)</li>
+<li><strong>SQL!!</strong> Transaction based, relational database, SQL implementation with tables and rows. If you love SQL and don&#8217;t need to support every browser out there, this might be the way to go for the short to medium term.</li>
+<li><strong>Nice size</strong> The default database the browser will give you is 5&#160;MB, but you can ask the browser for more storage, even unlimited storage if you want, and the user can approve your request.</li>
+</ul><h4>IndexedDB</h4>
+
+<ul><li><strong>Official</strong> database-in-browser implementation standard by W3C</li>
+<li><strong>NoSQL, key-value, and transactional</strong> You get the advantages of transactions, but without all of the schema business.</li>
+<li><strong>Asynchronous</strong> You don&#8217;t need to wait for the database to finish doing its business in order to keep allowing your user to use your app. There is also a synchronous API if you want it.</li>
+<li><strong>Object Oriented</strong> That allows you to store javascript objects, decreasing the amount of data format conversion you need to be doing.</li>
+<li><strong>Uses requests and indexes</strong> Very nice.</li>
+<li><strong>Same origin policy</strong> Requests to use an established database must be from the same domain, use the same application protocol, and use the same port.</li>
+<li><strong>Big sizes</strong> Firefox allows up to 50&#160;MB before you need to ask the user to approve more and Chrome allows 5&#160;MB but allows for unlimited storage if you declare it in your manifest file and the user approves it. I&#8217;m not sure of IE&#8217;s size limit.</li>
+<li><strong>Very, very cutting edge</strong> IndexedDB is currently only supported in Firefox, Chrome, and Internet Explorer 10.</li>
+</ul><h4>Summary</h4>
+
+<p>Client side storage is still being thought about, designed, and implemented by browsers. We&#8217;re still a long way of having a solid, unifed, and universal method of storing data in the browser. The most advanced web applications that need to support all browsers use a combination of these implementations in order to make sure they can give their users the best performance that their browser supports. Depending on your project requirements, you may only need to use one of these methods. If you&#8217;re working on applications that push the limit of client side storage or you have any questions or comments, feel free to comment!</p>
+
+<h5>Further Reading</h5>
+
+<p><a href="http://en.wikipedia.org/wiki/Web_Storage" target="_blank">Web Storage - Wikipedia Summary</a></p>
+
+<p><a href="http://www.w3.org/TR/webstorage/" target="_blank">Web Storage - W3C Standard Draft</a></p>
+
+<p><a href="http://html5doctor.com/introducing-web-sql-databases/" target="_blank">WebSQL - HTML5Doctor Introduction</a></p>
+
+<p><a href="http://www.w3.org/TR/webdatabase/" target="_blank">WebSQL - Abandoned W3C Standard Draft</a></p>
+
+<p><a href="http://w3c.org/TR/IndexedDB/" target="_blank">IndexedDB - W3C Standard Draft</a></p>
+
+<p><a href="http://developer.mozilla.org/en/IndexedDB/" target="_blank">IndexedDB - Mozilla Reference</a></p>
+
+<p><a href="http://developer.mozilla.org/en/IndexedDB/Basic_Concepts_Behind_IndexedDB" target="_blank">IndexedDB - Mozilla Introduction</a></p>

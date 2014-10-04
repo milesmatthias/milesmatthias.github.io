@@ -1,0 +1,17 @@
+---
+layout: post
+title: Automatically Back Up Projects with Dropbox
+date: '2012-07-11T00:01:55-06:00'
+tags: []
+tumblr_url: http://milesmatthias.com/post/26962760896/automatically-back-up-projects-with-dropbox
+---
+<p>I nearly just paid an unnecessary $7/mo to Github just to make a backup of my project&#8217;s code. I averted this terrible crisis with a symbolic link and Dropbox.</p>
+
+<p>I keep all of my projects in a local folder because my Dropbox account isn&#8217;t big enough to hold all of the projects I&#8217;ve ever done. I want to backup the one that I&#8217;m currently working on though, so I moved that project&#8217;s directory to my Dropbox folder to have it backed up in the cloud for free.</p>
+
+<p>But to not break my work flow at all, I made a symbolic link where my project directory used to be. To create the <a href="http://en.wikipedia.org/wiki/Link_(Unix)" target="_blank">symbolic link</a>, I used the following command:</p>
+
+<pre><code>ln -s ~/Dropbox/Projects/project_name project_name
+</code></pre>
+
+<p>Now, I, and all of my development apps, can still go to my local folder <code>project_name</code> and work as usual like nothing happened. However, I can rest easy knowing that my free Dropbox account has my back.</p>

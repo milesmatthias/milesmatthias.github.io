@@ -1,0 +1,51 @@
+---
+layout: post
+title: Unix Aliases Are Pretty Handy
+date: '2012-06-01T12:31:49-06:00'
+tags: []
+tumblr_url: http://milesmatthias.com/post/24205506861/unix-aliases-are-pretty-handy
+---
+<p>If you&#8217;re using Unix (you are if you&#8217;re using Mac OS X by the way) and you do a lot of work in the terminal, <strong>you should know about aliases</strong>. They&#8217;re really handy.</p>
+
+<p>Basically, an alias is a shortcut for a command. You type in your shortcut and press return just like you would any other command, but the shell knows (by you defining the alias at some earlier time) that when you give it the short cut, you really want to execute some other command.</p>
+
+<p>One of the first aliases that I always have set up is to list files in a directory the way I usually want to see them. As you probably know, when you do <code>ls</code>, you just see a boring file list like this:</p>
+
+<blockquote>
+  <p>[milesmatthias]$ ls</p>
+  
+  <p>Desktop                Dropbox             Movies              Projects            lib
+  Documents          IA_Projects         Music               Public
+  Downloads          Library             Pictures<br/>
+  TitaniumDefaultWorkspace</p>
+</blockquote>
+
+<p>It doesn&#8217;t give you a whole lot of information about the files it lists (like file size, type, etc) and it doesn&#8217;t show you any hidden files that might be in that directory. So I usually set up an alias.</p>
+
+<p>In your home directory, you want to edit (or create if it&#8217;s not already there) a hidden file named <code>.bashrc</code>. We define our aliases in that file like this:</p>
+
+<blockquote>
+  <p>alias ll=&#8217;ls -ahl&#8217;</p>
+</blockquote>
+
+<p>That syntax defines an alias with the shortcut command <code>ll</code> that correlates to the command <code>ls -ahl</code>, which allows me to see every file in a directory (hidden or not) and lists several attributes for each file in a human readable format.</p>
+
+<p>Now if you try to use your alias right after saving your <code>.bashrc</code> file, it won&#8217;t work. The shell hasn&#8217;t gotten a chance to process that new alias definition and remember it. So you either need to log out of the shell and open a new shell, or you can stay in your existing shell and just tell the shell about it with this command:</p>
+
+<blockquote>
+  <p><code>. ./.bashrc</code></p>
+</blockquote>
+
+<p>Then try out your new alias and watch your command life be simplified!</p>
+
+<p>Want to take it a step further? You can put anything in the extended command part of the alias definition that you would write on the command line. So use command chaining! I frequently use <code>&amp;&amp;</code> to write long aliases that otherwise I&#8217;d have to do manually. For instance, every day I write some code, build the production version, and then deploy it to a sever. So my alias command for all of that looks like:</p>
+
+<blockquote>
+  <p><code>alias buildproject='cd web/webroot &amp;&amp; ./build_prod.sh &amp;&amp; cd ../.. &amp;&amp; git add . &amp;&amp; git commit -m "Built production version." &amp;&amp; git pull &amp;&amp; git push &amp;&amp; ssh admin@dev'</code></p>
+</blockquote>
+
+<p>The <code>&amp;&amp;</code> operator is awesome because the shell will only move onto the next command if the previous command was successful. So if for some reason one of the commands in the chain fails, none of the following commands will execute and nothing else would go wrong. You&#8217;d just fix whatever failed and then execute the rest of the commands yourself.</p>
+
+<p>Aliases make my life easier every day so hopefully they&#8217;ll help you too!</p>
+
+<center><img src="http://media.tumblr.com/tumblr_m4ybawg3Ya1r12fim.png" alt=""/></center>
