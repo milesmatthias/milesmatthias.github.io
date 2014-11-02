@@ -7,5 +7,7 @@ gem "middleman-blog", "~> 3.5.3"
 
 # For feed.xml.builder
 gem "builder", "~> 3.0"
+gem "nokogiri" # for blog post summaries
 
 gem "pry"
+
