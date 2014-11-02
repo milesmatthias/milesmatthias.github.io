@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why I Hate Facebook - Facebook Releases "Camera"
-date: '2012-05-25T14:26:44-06:00'
+date: '2012-05-25'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/23749606374/why-i-hate-facebook-facebook-releases-camera
 ---

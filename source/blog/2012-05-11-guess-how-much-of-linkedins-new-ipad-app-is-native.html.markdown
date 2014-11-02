@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Guess how much of LinkedIn's new iPad app is native.
-date: '2012-05-11T12:54:16-06:00'
+date: '2012-05-11'
 tags:
 - mobile
 - html5

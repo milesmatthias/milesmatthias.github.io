@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Recent Nerdy News
-date: '2013-03-21T22:26:08-06:00'
+date: '2013-03-21'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/45970822539/recent-nerdy-news
 ---

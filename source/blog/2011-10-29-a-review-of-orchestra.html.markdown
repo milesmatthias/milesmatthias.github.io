@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Review of Orchestra
-date: '2011-10-29T16:53:11-06:00'
+date: '2011-10-29'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/12091878700/a-review-of-orchestra
 ---

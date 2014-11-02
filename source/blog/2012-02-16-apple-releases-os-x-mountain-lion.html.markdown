@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Apple Releases OS X Mountain Lion
-date: '2012-02-16T10:06:00-07:00'
+date: '2012-02-16'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/17715870837/apple-releases-os-x-mountain-lion
 ---

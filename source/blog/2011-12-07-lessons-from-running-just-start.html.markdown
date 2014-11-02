@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lessons from Running - Just Start
-date: '2011-12-07T14:53:50-07:00'
+date: '2011-12-07'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/13888095480/lessons-from-running-just-start
 ---

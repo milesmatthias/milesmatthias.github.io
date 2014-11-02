@@ -2,7 +2,7 @@
 layout: post
 title: ! 'Startups, life, learning and happiness: Work harder on yourself than you
   do on your startup'
-date: '2012-05-12T21:14:08-06:00'
+date: '2012-05-12'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/22946496687/startups-life-learning-and-happiness-work-harder-on
 ---

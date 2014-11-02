@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An App in Three Weeks
-date: '2011-11-29T12:50:17-07:00'
+date: '2011-11-29'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/13508721803/an-app-in-three-weeks
 ---

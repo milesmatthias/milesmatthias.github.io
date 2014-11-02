@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Potential of Digital Communication
-date: '2012-07-02T08:53:00-06:00'
+date: '2012-07-02'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/26347656867/the-potential-of-digital-communication
 ---

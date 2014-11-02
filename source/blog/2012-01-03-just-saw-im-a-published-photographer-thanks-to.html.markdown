@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ''
-date: '2012-01-03T15:16:11-07:00'
+date: '2012-01-03'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/15258905100/just-saw-im-a-published-photographer-thanks-to
 ---

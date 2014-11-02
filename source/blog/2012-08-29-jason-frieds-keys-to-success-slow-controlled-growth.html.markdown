@@ -2,7 +2,7 @@
 layout: post
 title: ! 'Jason Fried''s keys to success: Slow, controlled growth and keeping people
   happy.'
-date: '2012-08-29T12:55:37-06:00'
+date: '2012-08-29'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/30465675047/jason-frieds-keys-to-success-slow-controlled-growth
 ---

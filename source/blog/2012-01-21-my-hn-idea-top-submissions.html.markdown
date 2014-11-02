@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ! 'My HN idea: Top Submissions'
-date: '2012-01-21T19:24:16-07:00'
+date: '2012-01-21'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/16263619411/my-hn-idea-top-submissions
 ---

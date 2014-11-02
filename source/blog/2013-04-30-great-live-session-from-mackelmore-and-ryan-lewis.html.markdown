@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Great live session from @Mackelmore and Ryan Lewis at @Spotify NYC
-date: '2013-04-30T10:29:00-06:00'
+date: '2013-04-30'
 tags:
 - music
 - spotify

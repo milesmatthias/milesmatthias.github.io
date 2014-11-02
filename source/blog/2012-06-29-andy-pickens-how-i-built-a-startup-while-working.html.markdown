@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ! 'Andy Pickens: How I built a startup while working full-time in Finance'
-date: '2012-06-29T08:30:18-06:00'
+date: '2012-06-29'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/26141840718/andy-pickens-how-i-built-a-startup-while-working
 ---

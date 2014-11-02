@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ': SMS-First Startups'
-date: '2013-04-16T11:15:00-06:00'
+date: '2013-04-16'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/48129658747/sms-first-startups
 ---

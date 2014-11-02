@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Finding Expert Research
-date: '2012-04-27T19:53:38-06:00'
+date: '2012-04-27'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/21949869222/finding-expert-research
 ---

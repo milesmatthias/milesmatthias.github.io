@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My recent open source contributions (or github is awesome)
-date: '2013-01-24T22:14:00-07:00'
+date: '2013-01-24'
 tags:
 - github
 - javascript

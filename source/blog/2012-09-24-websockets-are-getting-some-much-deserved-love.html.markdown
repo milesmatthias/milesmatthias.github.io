@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Websockets are getting some much deserved love
-date: '2012-09-24T09:52:09-06:00'
+date: '2012-09-24'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/32200275321/websockets-are-getting-some-much-deserved-love
 ---

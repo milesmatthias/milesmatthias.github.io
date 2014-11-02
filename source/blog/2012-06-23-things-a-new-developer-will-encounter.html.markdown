@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Things A New Developer Will Encounter
-date: '2012-06-23T15:32:23-06:00'
+date: '2012-06-23'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/25738038389/things-a-new-developer-will-encounter
 ---

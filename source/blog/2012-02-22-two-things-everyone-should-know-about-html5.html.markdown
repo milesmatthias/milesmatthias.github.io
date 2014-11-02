@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Two Things Everyone Should Know About HTML5
-date: '2012-02-22T21:34:00-07:00'
+date: '2012-02-22'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/18114569385/two-things-everyone-should-know-about-html5
 ---

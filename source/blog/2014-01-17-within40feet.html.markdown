@@ -1,7 +1,7 @@
 ---
 layout: post
 title: within40feet
-date: '2014-01-17T10:13:44-07:00'
+date: '2014-01-17'
 tags:
 - within40feet
 tumblr_url: http://milesmatthias.tumblr.com/post/73625185540/within40feet

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ! 'DM2 Studios Blog: The Beginner''s Guide to Twitter'
-date: '2012-05-12T15:41:10-06:00'
+date: '2012-05-12'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/22926978363/dm2-studios-blog-the-beginners-guide-to-twitter
 ---

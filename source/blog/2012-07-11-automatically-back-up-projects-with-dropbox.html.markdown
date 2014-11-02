@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Automatically Back Up Projects with Dropbox
-date: '2012-07-11T00:01:55-06:00'
+date: '2012-07-11'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/26962760896/automatically-back-up-projects-with-dropbox
 ---

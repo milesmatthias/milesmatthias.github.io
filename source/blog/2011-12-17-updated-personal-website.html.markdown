@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Updated personal website
-date: '2011-12-17T09:16:40-07:00'
+date: '2011-12-17'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/14357203538/updated-personal-website
 ---

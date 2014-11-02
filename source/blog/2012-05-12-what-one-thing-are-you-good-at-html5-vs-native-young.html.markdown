@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What one thing are you good at? HTML5 vs Native. Young developer confusion.
-date: '2012-05-12T21:48:32-06:00'
+date: '2012-05-12'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/22948601861/what-one-thing-are-you-good-at-html5-vs-native-young
 ---

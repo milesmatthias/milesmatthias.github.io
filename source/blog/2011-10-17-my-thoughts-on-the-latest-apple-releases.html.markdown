@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My thoughts on the latest Apple releases
-date: '2011-10-17T00:12:22-06:00'
+date: '2011-10-17'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/11563348864/my-thoughts-on-the-latest-apple-releases
 ---

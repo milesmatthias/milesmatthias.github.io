@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Open Web Device
-date: '2012-03-06T07:59:57-07:00'
+date: '2012-03-06'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/18847668343/open-web-device
 ---

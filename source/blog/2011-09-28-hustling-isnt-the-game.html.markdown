@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hustling isn't the game
-date: '2011-09-28T18:00:42-06:00'
+date: '2011-09-28'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/10785418703/hustling-isnt-the-game
 ---

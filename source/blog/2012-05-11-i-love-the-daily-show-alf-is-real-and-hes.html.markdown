@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ''
-date: '2012-05-11T02:04:12-06:00'
+date: '2012-05-11'
 tags:
 - comedy
 - the daily show

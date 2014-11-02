@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Extroverted Developer
-date: '2012-08-26T22:40:00-06:00'
+date: '2012-08-26'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/30297523990/the-extroverted-developer
 ---

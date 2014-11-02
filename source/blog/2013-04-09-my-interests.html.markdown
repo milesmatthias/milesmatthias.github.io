@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Interests
-date: '2013-04-09T10:01:44-06:00'
+date: '2013-04-09'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/47544587261/my-interests
 ---

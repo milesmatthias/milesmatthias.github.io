@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ! 'App Idea: Community of Alpha Testers'
-date: '2011-11-08T10:19:00-07:00'
+date: '2011-11-08'
 tags:
 - startups
 - testers

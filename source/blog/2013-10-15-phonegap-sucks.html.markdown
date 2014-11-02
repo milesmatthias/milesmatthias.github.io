@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Phonegap sucks.
-date: '2013-10-15T10:32:06-06:00'
+date: '2013-10-15'
 tags:
 - mobile development phonegap ios android
 tumblr_url: http://milesmatthias.tumblr.com/post/64123080957/phonegap-sucks

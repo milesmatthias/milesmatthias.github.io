@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Apple's Product Launches Rock - A Lesson in CEO Public Speaking
-date: '2012-03-17T00:37:31-06:00'
+date: '2012-03-17'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/19441400810/why-apples-product-launches-rock-a-lesson-in-ceo
 ---

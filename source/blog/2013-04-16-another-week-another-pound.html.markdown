@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Another week, another pound!
-date: '2013-04-16T21:10:15-06:00'
+date: '2013-04-16'
 tags:
 - weight loss
 - weight watchers

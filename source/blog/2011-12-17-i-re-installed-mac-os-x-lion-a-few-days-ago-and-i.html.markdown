@@ -1,7 +1,7 @@
 ---
 layout: post
 title: i re installed mac os x lion a few days ago and i
-date: '2011-12-17T12:47:00-07:00'
+date: '2011-12-17'
 tags:
 - mac os x
 - development

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Google Releases Gmail app for iOS
-date: '2011-11-16T17:00:29-07:00'
+date: '2011-11-16'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/12901242450/google-releases-gmail-app-for-ios
 ---

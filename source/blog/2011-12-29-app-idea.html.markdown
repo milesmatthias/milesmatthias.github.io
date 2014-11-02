@@ -1,7 +1,7 @@
 ---
 layout: post
 title: App Idea
-date: '2011-12-29T12:54:57-07:00'
+date: '2011-12-29'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/14986821717/app-idea
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ! 'Wisen up: Google''s Wifi Sniffing is Absolutely NOT Illegal'
-date: '2012-04-19T19:28:03-06:00'
+date: '2012-04-19'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/21412506321/wisen-up-googles-wifi-sniffing-is-absolutely-not
 ---

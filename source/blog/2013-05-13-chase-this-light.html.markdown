@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chase This Light
-date: '2013-05-13T10:55:27-06:00'
+date: '2013-05-13'
 tags:
 - music
 - spotify

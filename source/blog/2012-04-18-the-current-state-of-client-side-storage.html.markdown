@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Current State of Client-Side Storage
-date: '2012-04-18T07:27:00-06:00'
+date: '2012-04-18'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/21323839252/the-current-state-of-client-side-storage
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Technical vs Business Degree
-date: '2011-12-19T00:41:56-07:00'
+date: '2011-12-19'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/14448308253/technical-vs-business-degree
 ---

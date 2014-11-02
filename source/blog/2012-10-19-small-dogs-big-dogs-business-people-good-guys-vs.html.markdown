@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ! 'small dogs / big dogs: Business people: Good guys vs. Bad guys'
-date: '2012-10-19T01:01:48-06:00'
+date: '2012-10-19'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/33883451245/small-dogs-big-dogs-business-people-good-guys-vs
 ---

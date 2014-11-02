@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mobile App Looks like Standalone Native App, How do they do it?
-date: '2011-11-19T10:13:16-07:00'
+date: '2011-11-19'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/13017397101/mobile-app-looks-like-standalone-native-app-how-do
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: after i read matt swansons post on learning
-date: '2011-12-05T14:09:24-07:00'
+date: '2011-12-05'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/13791522142/after-i-read-matt-swansons-post-on-learning
 ---

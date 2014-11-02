@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ! 'An Idea: How to Get Practice Writing Business Plans'
-date: '2012-01-31T16:52:43-07:00'
+date: '2012-01-31'
 tags:
 - startups
 - entrepreneurship

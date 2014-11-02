@@ -1,7 +1,7 @@
 ---
 layout: post
 title: this has been my life for the past 5 weeks sophie
-date: '2013-08-20T10:18:06-06:00'
+date: '2013-08-20'
 tags:
 - dog
 - puppy

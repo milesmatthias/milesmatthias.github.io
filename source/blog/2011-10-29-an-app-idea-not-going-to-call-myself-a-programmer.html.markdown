@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ! 'An App Idea: Not Going to Call Myself a Programmer'
-date: '2011-10-29T18:03:00-06:00'
+date: '2011-10-29'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/12094549322/an-app-idea-not-going-to-call-myself-a-programmer
 ---

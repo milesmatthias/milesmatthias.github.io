@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ''
-date: '2011-12-27T00:03:57-07:00'
+date: '2011-12-27'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/14852452524/large-downloads-will-eventually-need-to-be-allowed
 ---

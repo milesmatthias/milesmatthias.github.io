@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learning how to design.
-date: '2012-05-11T19:30:56-06:00'
+date: '2012-05-11'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/22874131377/learning-how-to-design
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: iOS Certificates & Provisioning Profiles
-date: '2013-10-15T10:29:00-06:00'
+date: '2013-10-15'
 tags:
 - ios
 - xcode

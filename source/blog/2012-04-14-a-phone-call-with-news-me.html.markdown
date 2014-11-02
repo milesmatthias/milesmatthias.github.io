@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Phone Call with News.me
-date: '2012-04-14T17:11:11-06:00'
+date: '2012-04-14'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/21111075560/a-phone-call-with-news-me
 ---

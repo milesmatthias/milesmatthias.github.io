@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ! 'HN Showcase: A visual browser for ''Show HN'' posts'
-date: '2012-06-01T15:58:10-06:00'
+date: '2012-06-01'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/24217932275/hn-showcase-a-visual-browser-for-show-hn-posts
 ---

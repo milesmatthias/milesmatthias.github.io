@@ -2,7 +2,7 @@
 layout: post
 title: ! 'Techupdates: How to Build a Website Using Twitter Bootstrap and SASS – Part
   1'
-date: '2012-07-02T08:27:01-06:00'
+date: '2012-07-02'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/26346198044/techupdates-how-to-build-a-website-using-twitter
 ---

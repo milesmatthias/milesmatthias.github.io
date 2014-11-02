@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Counting Horses with Grandpa
-date: '2013-06-06T10:45:00-06:00'
+date: '2013-06-06'
 tags:
 - memories
 - grandpa childhood rip

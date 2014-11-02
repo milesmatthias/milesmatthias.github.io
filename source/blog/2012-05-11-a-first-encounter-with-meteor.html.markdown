@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A First Encounter with Meteor
-date: '2012-05-11T08:01:08-06:00'
+date: '2012-05-11'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/22840353320/a-first-encounter-with-meteor
 ---

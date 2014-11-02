@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Google Reader Bug
-date: '2011-11-02T17:19:00-06:00'
+date: '2011-11-02'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/12260132729/google-reader-bug
 ---

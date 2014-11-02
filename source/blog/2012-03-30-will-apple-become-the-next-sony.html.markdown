@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Will Apple Become the Next Sony?
-date: '2012-03-30T09:21:18-06:00'
+date: '2012-03-30'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/20171754451/will-apple-become-the-next-sony
 ---

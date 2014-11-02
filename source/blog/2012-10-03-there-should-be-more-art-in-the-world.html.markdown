@@ -1,7 +1,7 @@
 ---
 layout: post
 title: There Should Be More Art in the World
-date: '2012-10-03T15:16:01-06:00'
+date: '2012-10-03'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/32825311570/there-should-be-more-art-in-the-world
 ---

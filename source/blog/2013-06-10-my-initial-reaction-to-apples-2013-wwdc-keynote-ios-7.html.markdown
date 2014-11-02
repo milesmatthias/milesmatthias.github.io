@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Initial Reaction to Apple's 2013 WWDC Keynote (iOS 7 announcement)
-date: '2013-06-10T15:02:23-06:00'
+date: '2013-06-10'
 tags:
 - apple
 - ios7 ios

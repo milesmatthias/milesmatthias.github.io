@@ -1,7 +1,7 @@
 ---
 layout: post
 title: boulder colorado is awesome the flatirons are
-date: '2012-02-23T09:29:00-07:00'
+date: '2012-02-23'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/18133305600/boulder-colorado-is-awesome-the-flatirons-are
 ---

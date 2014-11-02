@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Layout and Responsive Web Design with Twitter Bootstrap
-date: '2012-05-05T13:15:32-06:00'
+date: '2012-05-05'
 tags:
 - twitter bootstrap
 - responsive design

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: snuggling puppy
-date: '2013-09-21T09:26:09-06:00'
+date: '2013-09-21'
 tags:
 - puppy
 - black lab

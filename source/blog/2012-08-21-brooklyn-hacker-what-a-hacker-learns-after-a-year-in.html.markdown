@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ! 'Brooklyn Hacker: What A Hacker Learns After A Year In Marketing'
-date: '2012-08-21T11:12:43-06:00'
+date: '2012-08-21'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/29905088425/brooklyn-hacker-what-a-hacker-learns-after-a-year-in
 ---

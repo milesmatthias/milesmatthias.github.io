@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Git Is Simpler Than You Think
-date: '2013-03-18T15:21:26-06:00'
+date: '2013-03-18'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/45698965811/git-is-simpler-than-you-think
 ---

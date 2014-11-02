@@ -1,7 +1,7 @@
 ---
 layout: post
 title: belguim designer ilias ismanalijev displayed
-date: '2012-03-04T21:39:29-07:00'
+date: '2012-03-04'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/18776543798/belguim-designer-ilias-ismanalijev-displayed
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ! 'Brendan Baker: My Team'
-date: '2012-02-17T11:04:19-07:00'
+date: '2012-02-17'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/17773272836/brendan-baker-my-team
 ---

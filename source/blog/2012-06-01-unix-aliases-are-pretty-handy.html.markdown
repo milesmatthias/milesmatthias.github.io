@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Unix Aliases Are Pretty Handy
-date: '2012-06-01T12:31:49-06:00'
+date: '2012-06-01'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/24205506861/unix-aliases-are-pretty-handy
 ---

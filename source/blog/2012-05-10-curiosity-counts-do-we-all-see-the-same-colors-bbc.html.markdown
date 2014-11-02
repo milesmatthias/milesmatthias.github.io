@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ! 'curiosity counts: Do We All See The Same Colors? | BBC Future'
-date: '2012-05-10T15:56:21-06:00'
+date: '2012-05-10'
 tags: []
 tumblr_url: http://milesmatthias.tumblr.com/post/22800532942/curiosity-counts-do-we-all-see-the-same-colors-bbc
 ---
