@@ -2,17 +2,22 @@
 
   <%= image_tag "miles.png" %>
 
-  <h1>Miles Matthias</h1>
+  <h1>
+    Miles <br>
+    Matthias
+  </h1>
 
-  <nav>
-    <ul>
-      <li><%= link_to "About", "/about" %></li>
-      <li><%= link_to "Newsletter", "/newsletter" %></li>
-      <li><%= link_to "Blog", "/blog" %></li>
-      <li><%= link_to "Contact", "mailto:miles.matthias@gmail.com" %></li>
-    </ul>
-  </nav>
+  <div id="header-nav-group">
+    <nav>
+      <ul>
+        <li><%= link_to "About", "/about" %></li>
+        <li><%= link_to "Newsletter", "/newsletter" %></li>
+        <li><%= link_to "Blog", "/blog" %></li>
+        <li><%= link_to "Contact", "mailto:miles.matthias@gmail.com" %></li>
+      </ul>
+    </nav>
 
-  <p>&copy; 2014 Miles Matthias</p>
+    <p id="copyright-footer">&copy; 2014 Miles Matthias</p>
+  </div>
 
 </div>
