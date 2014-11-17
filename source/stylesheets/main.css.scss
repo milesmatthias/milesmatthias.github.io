@@ -3,8 +3,15 @@
   "variables",
   "header";
 
+html, body {
+  width: 100%;
+}
 
 #main {
+
+  @media screen and (max-width: 1199px) {
+    padding-top: 200px;
+  }
 
   @media screen and (min-width: 1200px) {
     position: absolute;

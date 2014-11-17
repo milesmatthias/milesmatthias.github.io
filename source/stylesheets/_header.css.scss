@@ -55,7 +55,30 @@ header {
       display: block;
     }
   }
+
   .mobile_header {
+
+    height: 150px;
+    width: 100%;
+    background-color: $black;
+    position: fixed;
+
+    * {
+      position: absolute;
+      font-size: 35px;
+      top: 50px;
+      color: $white;
+    }
+
+    h1 {
+      left: 50px;
+      line-height: 0.6;
+    }
+
+    a {
+      right: 50px;
+      text-decoration: none;
+    }
 
     // media query
     display: none;
@@ -65,4 +88,8 @@ header {
   }
 
 }
+
+
+
+
 
